@@ -23,8 +23,6 @@ Commandes utilisées :
 
 ---
 
-## Étape 2 – Mise en place des fichiers de test
-
 Après l’initialisation, création du dossier `e2e` contenant :
 
 - `bank_transfer.feature` → pour y mettre mes scénarios de test
